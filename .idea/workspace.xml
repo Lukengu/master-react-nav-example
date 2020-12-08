@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e222433f-7a2f-455b-9a65-243cd5b3bd72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ARNGD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/androidTest/java/co/za/creativesanctum/arngd/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Splash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/app/src/test/java/co/za/creativesanctum/arngd/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARNGD/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AwesomeProject/.idea/AwesomeProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bethel/.idea/Bethel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bethel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen.xcodeproj/project.xcworkspace/xcuserdata/seekmac.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen.xcodeproj/xcuserdata/seekmac.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/Config/Defines.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/DKitchen.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/196.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/216.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/bg.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/bg.imageset/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/logo.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/logo.imageset/logo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/splash.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Assets.xcassets/splash.imageset/splash.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/SceneDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/SceneDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/SupportFiles/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/Utils/SharedUserDefaults.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/Utils/SharedUserDefaults.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/Views/HomeController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/Views/HomeController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/Views/LoginController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/Views/LoginController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DsKitchen/ios/DKitchen/DKitchen/Views/SplashController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kagano/kagano_android/app/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kagano/kagano_android/app/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kagano/kagano_android/app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kagano/kagano_android/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kagano/kagano_android/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kagano/kagano_android/app/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/.idea/dictionaries/seekmac.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/activities/CaseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/activities/RequestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/activities/SingleRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/adapter/DocketAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/adapter/NewRequestAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/entities/Docket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/entities/Feedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/fragments/doctor/MyDockets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/services/NotificationReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/utils/notification/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/views/SendFeedbackBottomSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/badge_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/border_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/border_theme.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_arrow_right_alt_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_arrow_right_alt_purple_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_calendar_view_day_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_chat_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_chat_bubble_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_close_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_collections_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_feedback_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_folder_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_indeterminate_check_box_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_notifications_active_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_reply_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_baseline_save_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/ic_iconmonstr_eye_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/image_round_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/image_round_border_fill_purple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/image_round_border_purple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/drawable/toggle_collapse.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout-v26/single_request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/case_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/docket_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/request_items.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/request_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/send_feedack_bottom_sheet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/single_request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_app/videochat/artifacts.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/AllDesignersActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/AppointmentsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/CartActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/CheckoutActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/DesignerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/EventActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/FavoritesActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/MakeCallActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/NotificationsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/PermissionsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/ProductDetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/SendNotificationActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/SingleAppointmentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/SingleEventActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/AppointmentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/CartAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/EventAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/FavoriteAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/NotificationAdapater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/OpponentsFromCallAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/RelatedModelAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/ReviewOrderAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/UserListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/callbacks/SwipeToDeleteCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/callbacks/SwipeToReply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/controls/ListPreferenceCompat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/controls/SeekBarPreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/db/DbHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/db/QbUsersDbManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/entities/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/AudioConversationFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/BaseConversationFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/BaseToolBarFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/ConversationFragmentCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/IncomeCallFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/IncomeCallFragmentCallbackListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/OnCallEventsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/PreviewFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/ScreenShareFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/SettingsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/QB/VideoConversationFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/events/MyEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/events/PastEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/events/Upcoming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/notifications/BottomSheetFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/notifications/Received.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/notifications/Sent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/listeners/CartAdapterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/listeners/FavoriteAdapterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/listeners/RelatedModelListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/services/CallService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/services/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/services/fcm/NotificationReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/services/fcm/PushListenerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/CameraUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/CollectionsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/Consts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/DialogUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/ErrorUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/FragmentExecuotr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/KeyboardUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/PermissionsChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/PushNotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/QBEntityCallbackImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/QBRTCSessionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/QBResRequestExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/RingtonePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/SettingsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/SharedPrefsHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/ToastUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/UiUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/UsersUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/ValidationUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/QB/WebRtcSessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/cart/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/cart/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/cart/CartException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/cart/CartModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/cart/CartProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/cart/OnStepperQuantityChangeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/cart/Stepper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/favorite/Favorite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/favorite/FavoriteListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/favorite/ProductNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/notification/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/notification/PushNotifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/util/ChatPingAlarmManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/util/NetworkConnectionChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/views/SendNotificationBottomSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/favorite_badge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_accept_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_arrow_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_arrow_back_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_call_end_sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_call_grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_camera_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_camera_rear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_checkmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_favorite_selected_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_microphone_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_microphone_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_microphone_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_person_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_phone_hangup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_phonelink_ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_screen_share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_speaker_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_stop_screenshare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_video_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_video_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_video_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_videocam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_videocam_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_volume_high_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_volume_low_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_volume_medium_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_volume_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_volume_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/ic_volume_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/pres_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-hdpi/qb_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_accept_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_arrow_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_arrow_back_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_call_end_sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_call_grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_camera_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_camera_rear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_checkmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_microphone_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_microphone_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_microphone_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_person_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_phone_hangup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_phonelink_ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_screen_share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_speaker_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_stop_screenshare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_video_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_video_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_video_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_videocam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_videocam_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_volume_high_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_volume_medium_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_volume_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_volume_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/ic_volume_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/pres_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-mdpi/qb_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-v24/ic_double_indicator_gray.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-v24/ic_double_tick_indicator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_accept_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_arrow_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_arrow_back_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_call_end_sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_call_grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_camera_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_camera_rear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_checkmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_microphone_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_microphone_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_microphone_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_person_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_phone_hangup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_phonelink_ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_screen_share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_speaker_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_stop_screenshare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_video_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_video_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_video_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_videocam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_videocam_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_volume_high_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_volume_low_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_volume_medium_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_volume_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_volume_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/ic_volume_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/pres_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/qb_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xhdpi/shape_circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_accept_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_arrow_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_arrow_back_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_call_end_sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_call_grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_camera_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_camera_rear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_checkmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_microphone_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_microphone_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_microphone_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_person_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_phone_hangup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_phonelink_ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_screen_share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_speaker_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_stop_screenshare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_video_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_video_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_video_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_videocam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_videocam_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_volume_high_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_volume_low_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_volume_medium_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_volume_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_volume_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/ic_volume_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/pres_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxhdpi/qb_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_accept_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_arrow_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_arrow_back_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_call_end_sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_call_grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_camera_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_camera_rear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_checkmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_microphone_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_microphone_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_microphone_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_person_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_phone_hangup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_phonelink_ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_screen_share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_speaker_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_stop_screenshare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_video_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_video_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_video_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_videocam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_videocam_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_volume_high_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_volume_low_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_volume_medium_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_volume_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_volume_off_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/ic_volume_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/pres_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable-xxxhdpi/qb_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/badge_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/call_cam_toggle_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/call_mic_toggle_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/call_speaker_toggle_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/call_toggle_button_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/favorite_badge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/group_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_add_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_call_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_chat_bubble_colored_sky_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_clear_all_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_close_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_delete_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_location_city_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_notifications_colored_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_refresh_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_reply_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_share_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_baseline_video_call_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_double_indicator_gray.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_double_tick_indicator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_error_outline_gray_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_error_outline_orange_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_favorite_selected_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_mic_off.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_minus_24_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_plus_24_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_shopping_basket_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_shopping_basket_gray_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/ic_user_camera_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/image_deselected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/login_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/opponents.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/p2p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/selector_call_end.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/selector_call_take.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/selector_toggle_cam.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/selector_toggle_mic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/selector_toggle_speaker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/shape_oval_green.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/shape_oval_red.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/shape_oval_transparent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/shape_oval_white_green.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/shape_oval_white_red.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/drawable/toolbar_shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout-v21/checkout_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_all_designers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_checkout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_designer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_event.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_favorites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_make_call.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_permissions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_product_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_send_notification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_single_appointment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_single_event.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/cart_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/cart_stepper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/connection_popup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/conversation_list_sent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/custom_action_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/custom_notification_menu_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/event_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/favorite_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/favorite_items.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/fragment_audio_conversation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/fragment_income_call.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/fragment_item_screen_share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/fragment_pager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/fragment_video_conversation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/generic_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/item_opponents_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/list_item_opponent_from_call.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/local_video_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/message_area.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/preference_version.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/related_products.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/remote_video_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/seekbar_preference.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/send_area.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/send_notification_bottom_sheet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/toolbar_call.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/view_action_buttons_conversation_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/view_action_buttons_incoming_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/view_avatar_and_name.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/view_for_preference.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/view_outgoing_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/activity_opponents.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/activity_selected_opponents.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/conversation_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/favorite_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/myevents_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/notification_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/screen_share_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/send_notification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/raw/beep.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values-fr/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values-fr/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values-fr/ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/xml/preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/cert/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/androidTest/java/neoproject/net/app/deden/quickblox/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/java/neoproject/net/app/deden/quickblox/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/java/neoproject/net/app/deden/quickblox/HashMac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/java/neoproject/net/app/deden/quickblox/QBConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/java/neoproject/net/app/deden/quickblox/controls/MyProgressBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/java/neoproject/net/app/deden/quickblox/service/ServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/java/neoproject/net/app/deden/quickblox/service/ServiceListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/java/neoproject/net/app/deden/quickblox/service/ServiceMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/java/neoproject/net/app/deden/quickblox/users/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/res/layout/progress_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/quickblox/src/test/java/neoproject/net/app/deden/quickblox/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deden_v2/videochat/artifacts.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../epp/.idea/epp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equation/equation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowerite/.idea/printmart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowerite/administrator/com_productxport/.idea/com_productxport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowerite/com_productxport/.idea/com_productxport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowerite/com_productxport/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowerite/com_productxport/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pioneer/Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pioneer/automate-io.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pioneer/leads2909.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/AddChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/AddChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Dashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Reset.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Reset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Verify.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/Verify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/helpers/AppPreferencesManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/helpers/AppPreferencesManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/helpers/Validate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/helpers/Validate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/utils/AppProgressDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/utils/AppProgressDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/utils/firebase/Firebase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/java/co/za/creativesanctum/arngd/utils/firebase/Firebase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/ic_female.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/ic_female.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/ic_male.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/ic_male.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/progress_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/progress_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/shape_edit_text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/shape_edit_text.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/shape_primary_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/shape_primary_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/shape_secondary_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/drawable/shape_secondary_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/add_child.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/add_child.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/reset.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/reset.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/verify.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARNGD/app/src/main/res/layout/verify.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B-Bop TV plus" beforeDir="false" afterPath="$PROJECT_DIR$/../B-Bop TV plus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HopeTvAfrica/Hope TV Africa" beforeDir="false" afterPath="$PROJECT_DIR$/../HopeTvAfrica/Hope TV Africa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Kagano/kagano/kagano.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../Kagano/kagano/kagano.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano.xcodeproj/project.xcworkspace/xcuserdata/seekmac.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../Kagano/kagano/kagano.xcodeproj/project.xcworkspace/xcuserdata/seekmac.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano.xcodeproj/xcuserdata/seekmac.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../Kagano/kagano/kagano.xcodeproj/xcuserdata/seekmac.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano/New Group/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano/New Group/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano/SceneDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano/kagano/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano_android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Kagano/kagano_android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano_android/app/src/main/java/pro/novatechsolution/app/kagano/DonnorActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kagano/kagano_android/app/src/main/java/pro/novatechsolution/app/kagano/DonnorActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kagano/kagano_android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Kagano/kagano_android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MatterofArtIOS/Matters of the art/Matters of the art.xcodeproj/project.xcworkspace/xcuserdata/seekmac.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../MatterofArtIOS/Matters of the art/Matters of the art.xcodeproj/project.xcworkspace/xcuserdata/seekmac.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MattersoftheArt/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MattersoftheArt/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MattersoftheArt/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MattersoftheArt/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MattersoftheArt/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MattersoftheArt/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MattersoftheArt/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MattersoftheArt/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__androidx_collection_collection_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__com_nineoldandroids_library_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__com_squareup_okio_okio_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__cz_msebera_android_httpclient_4_4_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__org_apache_http_legacy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/FilePicker/OraSchoolAndroid500.FilePicker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/FlycoTabLayoutLib/OraSchoolAndroid500.FlycoTabLayoutLib.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/ImageViewer/OraSchoolAndroid500.ImageViewer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/MaterialTabs/OraSchoolAndroid500.MaterialTabs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/OraSchoolAndroid500.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/SlidingMenu/OraSchoolAndroid500.SlidingMenu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/app/OraSchoolAndroid500.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/calenderView/OraSchoolAndroid500.calenderView.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/chatkit/OraSchoolAndroid500.chatkit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/countTextView/OraSchoolAndroid500.countTextView.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/dialogPlusLib/OraSchoolAndroid500.dialogPlusLib.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/expandablerecyclerview/OraSchoolAndroid500.expandablerecyclerview.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/floatInputLib/OraSchoolAndroid500.floatInputLib.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/solbrickscal/OraSchoolAndroid500.solbrickscal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/.idea/modules/sweetAlertDialog/OraSchoolAndroid500.sweetAlertDialog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/OraSchoolAndroid400 (Android X).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/SlidingMenu/library.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OraSchoolSuiteAndroid5.0/OraSchoolAndroid500/calenderView/library.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/activities/ProfileForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/activities/ProfileForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/fragments/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/fragments/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/fragments/doctor/PatientRequests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/fragments/doctor/PatientRequests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/patient_requests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/patient_requests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/profile_form.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/res/layout/profile_form.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b-boptv-app" beforeDir="false" afterPath="$PROJECT_DIR$/../b-boptv-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bboptv_web" beforeDir="false" afterPath="$PROJECT_DIR$/../bboptv_web" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden" beforeDir="false" afterPath="$PROJECT_DIR$/../deden" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_app/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_app/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_app/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_app/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_app/app/src/main/java/pro/novatechsolution/app/deden/helper/favorite/Favorite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_app/app/src/main/java/pro/novatechsolution/app/deden/helper/favorite/Favorite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_app/app/src/main/res/layout/checkout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_app/app/src/main/res/layout/checkout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_app/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_app/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_frontend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/ConversationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/ConversationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/OnlineStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/RegisterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/SingleChatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/SingleChatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/ChatAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/ChatAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/DesignerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/DesignerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/MessageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/MessageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/ProductAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/ProductAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/ProductModelAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/ProductModelAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/WorkShopPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/adapters/CustomPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/entities/Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/entities/Appointment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/entities/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/entities/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/Communications.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/Communications.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/user/Workshop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/fragments/user/Workshop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/TimerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/TimerUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/firebase/Firebase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/firebase/Firebase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/helper/MyPreferenceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/helper/MyPreferenceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/notification/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/notification/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/notification/NotificationType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/notification/NotificationType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/java/neoproject/net/app/deden/utils/notification/PushNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Raphcare/app/src/main/java/net/loecos/app/raphcare/utils/notification/PushNotifications.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_profile_form.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/activity_profile_form.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/fragment_communications.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/fragment_communications.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/product_card.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/layout/product_card.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/chat_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/chat_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/right_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/menu/right_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values-fr/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values-fr/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values/arrays.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values/arrays.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deden_v2/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../deden_v2/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dh/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../dh/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellopaisa" beforeDir="false" afterPath="$PROJECT_DIR$/../hellopaisa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miraculous/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mypromoguideios" beforeDir="false" afterPath="$PROJECT_DIR$/../mypromoguideios" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pioneer/.idea/pioneer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pioneer/.idea/pioneer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pioneer/Help Gogo_Leads_2020-08-23_2020-08-23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pioneer/kudough.php" beforeDir="false" afterPath="$PROJECT_DIR$/../pioneer/kudough.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pioneer/leadgen.php" beforeDir="false" afterPath="$PROJECT_DIR$/../pioneer/leadgen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pioneer/manual_send.php" beforeDir="false" afterPath="$PROJECT_DIR$/../pioneer/manual_send.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pioneer/send_facebook_count.php" beforeDir="false" afterPath="$PROJECT_DIR$/../pioneer/send_facebook_count.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1lO3aUxC8WFL7pU3O2LcB1dzLqc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e222433f-7a2f-455b-9a65-243cd5b3bd72" name="Default Changelist" comment="" />
+      <created>1607454373393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607454373393</updated>
+      <workItem from="1607454378236" duration="7717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="691" height="222" key="GridCell.Tab.0.bottom" timestamp="1607463492531">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="691" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607463492531" />
+    <state width="691" height="222" key="GridCell.Tab.0.center" timestamp="1607463492530">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="691" height="222" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607463492530" />
+    <state width="691" height="222" key="GridCell.Tab.0.left" timestamp="1607463492530">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="691" height="222" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607463492530" />
+    <state width="691" height="222" key="GridCell.Tab.0.right" timestamp="1607463492531">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="691" height="222" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607463492531" />
+    <state x="0" y="0" width="1141" height="900" key="SettingsEditor" timestamp="1607464013410">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="1141" height="900" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1607464013410" />
+  </component>
+</project>
